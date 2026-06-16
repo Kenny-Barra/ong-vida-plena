@@ -39,6 +39,7 @@ Banco de dados visual **No-Code** que organiza os eventos, os beneficiários ate
 
 ## 2. Links do projeto
 
+- **Vídeo Pitch (YouTube):** https://youtu.be/fdU-RII7_rU
 - **Base do projeto (visualização):** https://airtable.com/appovZC8oqmwlf4bt/shrL609n4rMAdxdZz
 - **Formulário — Cadastro de Beneficiário:** https://airtable.com/appovZC8oqmwlf4bt/pagWqutX0H3A73zAI/form
 - **Formulário — Cadastro de Evento:** https://airtable.com/appovZC8oqmwlf4bt/pag0sODizSTc8kDPx/form
@@ -197,7 +198,7 @@ Detalhamento na [Parte Teórica](docs/parte-teorica.md).
 |---|---|---|
 | 1 | **Parte Teórica** | [`docs/parte-teorica.md`](docs/parte-teorica.md) |
 | 2 | **Parte Prática** (base + formulários + automações + dashboard) | Airtable (links na seção 2) + [`evidencias/`](evidencias/) |
-| 3 | **Vídeo Pitch** | link do YouTube: `[colar]` |
+| 3 | **Vídeo Pitch** | [youtu.be/fdU-RII7_rU](https://youtu.be/fdU-RII7_rU) |
 
 Os **prints das evidências** ficam na pasta [`evidencias/`](evidencias/).
 
